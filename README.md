@@ -1,1 +1,1 @@
-This is some sample text of read me file
+This is some sample text of readme file.
